@@ -1,0 +1,12 @@
+# Site settings
+title: BlogDeYesse
+email: yesse@smallbatchcoffeeco.com
+description: "Yesse makes wonderful coffee roasts from beans he harvests in the rainforests"
+baseurl: ""
+url: "http://smallbatchcoffeeco.com"
+twitter_username: smallbatchcoffee
+github_username:  apies
+
+# Build settings
+markdown: kramdown
+permalink: pretty
