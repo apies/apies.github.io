@@ -1,10 +1,10 @@
 # Site settings
-title: BlogDeYesse
-email: yesse@smallbatchcoffeeco.com
-description: "Yesse makes wonderful coffee roasts from beans he harvests in the rainforests"
+title: Blog of Alan Pies
+email: alan.lee.pies@gmail.com
+description: "A Blog about coding, politics, and time travel to the 90s"
 baseurl: ""
 url: "http://apies.github.io"
-twitter_username: smallbatchcoffee
+twitter_username: AlanPies
 github_username:  apies
 
 # Build settings
