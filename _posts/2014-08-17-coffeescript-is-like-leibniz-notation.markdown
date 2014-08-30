@@ -19,13 +19,11 @@ Suppose that you were asked to solve a problem in which you needed to take the i
 
  However, eventually you will stop deriving the integral of the tangent and simply skip to the `ln |sec x| + C` solution. In fact as problems become larger and more complex the shortcut is preferred as anyone reading your work will know the same shortcut.
 
-###Javascript is Newton's notation
+###Javascript Jungle
 
 When i write client code for the browser I prefer to use Coffeescript. I want to write code fast, efficiently and easy to maintain for other people on the project. I have developed the strong conviction that Coffeescript is Leibniz's notation for Javascript. Unfortunately many front end developers find Coffeescript disagreeable, a position I cannot fathom.
   
-I find the Coffeescript -> Javascript translation/compilation to be so simple that in most cases it can be done manually in your head. In the same sense as knowing 
-
-
+I find the Coffeescript -> Javascript translation/compilation to be so simple that in most cases it can be done manually in your head. In the same sense as knowing the integral of the tangent function is built on the sin/cos definitions it should be trivial to interpret :
 
 
 {% highlight coffeescript %}
@@ -33,7 +31,7 @@ I find the Coffeescript -> Javascript translation/compilation to be so simple th
   doSomething(x)
 {% endhighlight %}
 
-is equivalant to:
+as equivalant to:
 
 {% highlight coffeescript %}
 function(x){
